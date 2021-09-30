@@ -32,3 +32,5 @@ print("\nThe color of your shirts are: ",shirt_color)
 print("\nThe total number of shirt yor want are: ",num_shirt)
 
 print("\nYour price before adding HST is",total)
+
+print("\nYour total price after adding HST is",final_total)
